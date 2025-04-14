@@ -41,7 +41,7 @@ Original texture pack taken from:
 - Fill them with
 ```properties
 1.16
-resource-pack=https://github.com/AnonymDv/MyResourcePack/releases/download/Luckperms-ranks/Rank-Luckperms-Java-1.16.zip
+resource-pack=https://github.com/AnonymDv/Rank-Luckperms-Java/releases/download/Luckperms-ranks/Rank-Luckperms-Java-1.16.zip
 resource-pack-sha1=988604ccc96c4fcc1a9d4dcdeddd8b31ab90e02b
 ```
 
