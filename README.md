@@ -47,7 +47,7 @@ resource-pack-sha1=988604ccc96c4fcc1a9d4dcdeddd8b31ab90e02b
 
 ```properties
 1.17-1.18
-resource-pack=https://github.com/AnonymDv/MyResourcePack/releases/download/Luckperms-ranks/Rank-Luckperms-Java-1.17-1.18.zip
+resource-pack=https://github.com/AnonymDv/Rank-Luckperms-Java/releases/download/Luckperms-ranks/Rank-Luckperms-Java-1.17-1.18.zip
 resource-pack-sha1=ede9d4e750bca8385d130542a4fbff5514686dec
 ```
 
